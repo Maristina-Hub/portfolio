@@ -1,0 +1,19 @@
+/* About */
+.navbar{
+    flex-direction: column;
+    align-items: center;
+}
+
+.pic {
+    flex-direction: column;
+    align-items: center;
+}
+
+.pic img {
+    width: 250px;
+    height:200px;
+}
+
+/* .intro h2 {
+
+} */
