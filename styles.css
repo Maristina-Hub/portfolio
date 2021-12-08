@@ -261,3 +261,7 @@ html {
     cursor: pointer;
     box-shadow: 0 0 10px white;
 }
+
+#contact p {
+    text-align: center;
+}
